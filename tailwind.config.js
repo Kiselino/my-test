@@ -5,11 +5,6 @@ export default {
   theme: {
     extend: {}
   },
-  plugins: [],
-  corePlugins: [],
-  purge: [],
-  variants: {
-    extend: {}
-  }
+  plugins: []
 }
 

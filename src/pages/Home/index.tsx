@@ -10,7 +10,7 @@ const Home: React.FC = () => {
   }))
 
   return (
-    <Layout className='tw-h-dvh' style={{height: '100%'}}>
+    <Layout className='tw-h-full' >
       <Header
         style={{
           position: 'sticky',
